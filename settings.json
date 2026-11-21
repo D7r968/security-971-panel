@@ -6,7 +6,7 @@
     "backupEnabled": true,
     "autoBackupInterval": 3600000,
     "guildBackupPrefs": {
-      "1500098613227946084": true
+      "1500098613227946084": false
     },
     "instantResponse": {
       "enabled": true,
