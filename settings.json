@@ -1,0 +1,39 @@
+{
+  "settings": {
+    "ownerId": "",
+    "guildId": "",
+    "logChannelId": "",
+    "instantResponse": {
+      "enabled": true,
+      "alertEnabled": true,
+      "deleteWindowMs": 60000,
+      "deleteThreshold": 2,
+      "spamWindowMs": 5000,
+      "spamThreshold": 10,
+      "spamTimeoutMinutes": 10,
+      "channelCreateWindowMs": 10000,
+      "channelCreateThreshold": 3,
+      "kickBotsOnJoin": true,
+      "slowSpamWindowMs": 60000,
+      "slowSpamThreshold": 20,
+      "massBanThreshold": 2,
+      "massBanWindowMs": 60000,
+      "massKickThreshold": 3,
+      "massKickWindowMs": 60000,
+      "webhookStrikes": 1,
+      "emojiStrikes": 1,
+      "permissionEditStrikes": 1
+    },
+    "protectionSettings": {
+      "roleProtection": true,
+      "channelProtection": true,
+      "memberProtection": true,
+      "messageProtection": true,
+      "emojiProtection": true,
+      "webhookProtection": true,
+      "banProtection": true,
+      "kickProtection": true
+    },
+    "protectAllowed": []
+  }
+}
