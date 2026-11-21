@@ -3,6 +3,8 @@
     "ownerId": "",
     "guildId": "",
     "logChannelId": "",
+    "backupEnabled": true,
+    "autoBackupInterval": 3600000,
     "instantResponse": {
       "enabled": true,
       "alertEnabled": true,
@@ -34,6 +36,8 @@
       "banProtection": true,
       "kickProtection": true
     },
-    "protectAllowed": []
+    "protectAllowed": [
+      "1006387822141394955"
+    ]
   }
 }
