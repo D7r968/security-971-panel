@@ -5,6 +5,9 @@
     "logChannelId": "",
     "backupEnabled": true,
     "autoBackupInterval": 3600000,
+    "guildBackupPrefs": {
+      "1500098613227946084": true
+    },
     "instantResponse": {
       "enabled": true,
       "alertEnabled": true,
